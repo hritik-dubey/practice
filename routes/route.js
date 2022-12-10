@@ -8,6 +8,6 @@ router.delete("/delete",userController.deleteById)
 router.get("/update",userController.query)
 
 
-
+//route 
 
 module.exports = router 
